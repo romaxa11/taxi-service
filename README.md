@@ -27,13 +27,18 @@ A simple Web Application that emulates CRUD operations in Database of Taxi-Servi
 🚀 Main Technologies
 - 
 - JAVA - main programming language;
-- Dependency Injection;
+- JDK 11 - Java Development Kit;
+- Maven War Plugin 3.3.2;
+- Maven Checkstyle Plugin 3.1.1;
 - .gitignore, .xml, .sql and .jsp-files;
 - JDBC - connection to Data Base (MySQL) and CRUD methods implementation;
-- GIT - repositories storage;
-- TOMCAT server ;
-- Servlets, Filters and Security Web Technologies;
-- INTELLIJ IDEA - programming environment.✅
+- JSTL 1.2 - Java Standard Tag Library
+- MySQL Java Connector 8.0.22 - connection to Database;
+- GIT 2.33.0 - repositories storage;
+- TOMCAT 9.0.58 server ;
+- Servlet API 4.0.1;
+- Security Web Technologies;
+- IntelliJ IDEA 2021.3.2 (Ultimate Edition) - programming environment.✅
 
 🎯 Instruction
 -
